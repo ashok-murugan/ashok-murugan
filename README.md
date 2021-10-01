@@ -6,13 +6,18 @@ Software Engineer at Zoho | Ambitious Machine Learning Engineer
 - 🌱 I’m currently learning AI and ML
 - 📫 How to reach me: ashokmurugan.com
 - ⚡ Fun fact: Travel, Chess
-<!--
-**ashok-murugan/ashok-murugan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- ABOUT : END -->
 
-- 🔭 I’m currently working on Zoho
-- 🌱 I’m currently learning AI and ML
-- 📫 How to reach me: ashokmurugan.com
-- ⚡ Fun fact: Travel, Chess
--->
+<!-- CONNECT : START --> 
+### Connect with me:
+[<img align="left" alt="ashokmurugan.com" width="22px" src="https://icons.getbootstrap.com/assets/icons/globe.svg" />][website]
+[<img align="left" alt="Ashok Murugan | Twitter" width="22px" src="https://icons.getbootstrap.com/assets/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Ashok Murugan | LinkedIn" width="22px" src="https://icons.getbootstrap.com/assets/icons/linkedin.svg" />][linkedin]
+
+<br />
+<!-- CONNECT : END --> 
+
+[website]: https://ashokmurugan.com
+[twitter]: https://twitter.com/AshokMuruganAK
+[linkedin]: https://www.linkedin.com/in/ashok-murugan
