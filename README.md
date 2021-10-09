@@ -19,5 +19,5 @@ Software Engineer at Zoho | Ambitious Machine Learning Engineer
 <!-- CONNECT : END --> 
 
 [website]: https://ashokmurugan.com
-[twitter]: https://twitter.com/AshokMuruganAK
+[twitter]: https://twitter.com/Ashok1Murugan
 [linkedin]: https://www.linkedin.com/in/ashok-murugan
