@@ -1,7 +1,6 @@
 ### Hi there, I am Ashok Murugan 👋
 
-Software Engineer at Zoho | Ambitious Machine Learning Engineer
-
+Software Engineer at Zoho
 - 🔭 I’m currently working on Zoho
 - 🌱 I’m currently learning AI and ML
 - 📫 How to reach me: ashokmurugan.com
