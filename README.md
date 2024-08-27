@@ -2,11 +2,12 @@
 
 Software Engineer at Zoho
 - 🔭 I’m currently working on Zoho
-- 🌱 I’m currently learning AI and ML
 - 📫 How to reach me: ashokmurugan.com
 - ⚡ Fun fact: Travel, Chess
 
 <!-- ABOUT : END -->
+
+[![roadmap.sh](https://roadmap.sh/card/wide/66cdb104a22274ce504110c7?variant=dark&roadmaps=backend%2Cfrontend%2Csystem-design)](https://roadmap.sh)
 
 <!-- CONNECT : START --> 
 ### Connect with me:
