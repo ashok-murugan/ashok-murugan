@@ -1,13 +1,15 @@
 ### Hi there, I am Ashok Murugan 👋
 
-Software Engineer at Zoho
-- 🔭 I’m currently working on Zoho
-- 📫 How to reach me: ashokmurugan.com
-- ⚡ Fun fact: Travel, Chess
+Software Engineer  
+Building scalable backend systems, modern frontend apps, and exploring the future of AI.
+
+- 🔭 I’m currently focused on: Spring Boot, Next.js, System Design, Agentic AI
+- 🛠️ Working on: Real-world projects, open source, and mastering production-grade systems
+- 📫 Reach me at: [ashokmurugan.com](https://ashokmurugan.com)
+- 🧠 Goals: Become a Principal Engineer & build impactful tech products
+- ⚡ Fun fact: I love solo road trips, chess, and nature treks
 
 <!-- ABOUT : END -->
-
-[![roadmap.sh](https://roadmap.sh/card/wide/66cdb104a22274ce504110c7?variant=dark&roadmaps=backend%2Cfrontend%2Csystem-design)](https://roadmap.sh)
 
 <!-- CONNECT : START --> 
 ### Connect with me:
