@@ -1,25 +1,52 @@
-### Hi there, I am Ashok Murugan 👋
+<!-- PROFILE README -->
 
-Software Engineer  
-Building scalable backend systems, modern frontend apps, and exploring the future of AI.
+### Hi there, I’m Ashok Murugan 👋  
+**Staff Software Engineer | Backend Architect | AI-Augmented Systems Enthusiast**
 
-- 🔭 I’m currently focused on: Spring Boot, Next.js, System Design, Agentic AI
-- 🛠️ Working on: Real-world projects, open source, and mastering production-grade systems
-- 📫 Reach me at: [ashokmurugan.com](https://ashokmurugan.com)
-- 🧠 Goals: Become a Principal Engineer & build impactful tech products
-- ⚡ Fun fact: I love solo road trips, chess, and nature treks
+---
 
-<!-- ABOUT : END -->
+I’m a software engineer with **5+ years of experience** building **scalable systems**, **enterprise-grade backend services**, and **cloud-native applications**.
 
-<!-- CONNECT : START --> 
-### Connect with me:
-[<img align="left" alt="ashokmurugan.com" width="22px" src="https://icons.getbootstrap.com/assets/icons/globe.svg" />][website]
-[<img align="left" alt="Ashok Murugan | Twitter" width="22px" src="https://icons.getbootstrap.com/assets/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Ashok Murugan | LinkedIn" width="22px" src="https://icons.getbootstrap.com/assets/icons/linkedin.svg" />][linkedin]
+💼 Currently: **SDE3 @ Walmart**  
+📍 Previously: **SDE @ Zoho**
 
-<br />
-<!-- CONNECT : END --> 
+---
 
-[website]: https://ashokmurugan.com
-[twitter]: https://twitter.com/Ashok1Murugan
-[linkedin]: https://www.linkedin.com/in/ashok-murugan
+I specialize in designing **robust backend architectures** using **Java**, **Spring Boot**, and modern engineering practices.  
+I also build **frontend interfaces** with **React** and **Next.js**, focusing on performance, usability, and production-readiness.
+
+I’m especially focused on the future of backend engineering powered by **AI** — including **AI-augmented workflows**, **agentic systems in architecture**, and **backend automation** that improves developer productivity.
+
+---
+
+### 🔭 Current Focus
+- Spring Boot 3.x, Java 17+, System Design
+- Next.js App Router, Tailwind, shadcn/ui
+- Agentic AI (Google ADK, AI Agents, LLM-driven flows)
+- Clean Code, GitHub Actions, GKE & CI/CD
+
+---
+
+### 🚀 Goals
+- Build production-grade SaaS and open-source systems  
+- Grow into a **Principal Engineer**  
+- Leverage **AI** to accelerate engineering  
+- Inspire and mentor upcoming developers
+
+---
+
+### 🌐 Connect with Me
+
+[![Website](https://img.shields.io/badge/Website-ashokmurugan.com-0A66C2?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://ashokmurugan.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AshokMurugan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashok-murugan)
+[![Twitter](https://img.shields.io/badge/Twitter-@Ashok1Murugan-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Ashok1Murugan)
+[![GitHub](https://img.shields.io/github/followers/ashok-murugan?label=Follow&style=for-the-badge)](https://github.com/ashok-murugan)
+
+---
+
+### ✨ Fun Facts  
+🧠 I mentor developers and contribute to open source.  
+⚡ I love solo road trips, chess, and nature treks.  
+📬 Always open to collaborations, mentoring, and speaking.
+
+---
