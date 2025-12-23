@@ -1,7 +1,7 @@
 <!-- PROFILE README -->
 
 ### Hi there, I’m Ashok Murugan 👋  
-**Staff Software Engineer | Backend Architect | AI-Augmented Systems Enthusiast**
+**Staff Software Engineer | Backend Architect | AI Systems Enthusiast**
 
 ---
 
