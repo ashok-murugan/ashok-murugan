@@ -139,29 +139,6 @@ I write rigorous deep dives on distributed consistency, production reliability, 
 
 ---
 
-## 📜 Verified Professional Accreditations
-
-| Certificate / Credential | Issuer | Verification Link |
-|:---|:---|:---:|
-| **IBM RAG and Agentic AI Professional Certificate** | IBM | [Verify Credential](https://coursera.org/verify/professional-cert/S2E494119B6X) |
-| **Programming with Google Go Specialization** | University of California, Irvine | [Verify Credential](https://coursera.org/verify/specialization/A6793U69N93H) |
-| **IBM Java Developer Professional Certificate** | IBM | [Verify Credential](https://coursera.org/verify/professional-cert/6JBVD5SV5PH1) |
-| **Meta Database Engineer Professional Certificate** | Meta | [Verify Credential](https://coursera.org/verify/professional-cert/7NCNB3RLAVXA) |
-| **AI Python for Beginners** | DeepLearning.AI | [Verify Credential](https://coursera.org/verify/specialization/S3B3ZDFU2PVE) |
-| **Generative AI for Everyone** | DeepLearning.AI | [Verify Credential](https://coursera.org/verify/W9N8VUX7C5V6) |
-| **Prompt Engineering for ChatGPT** | Vanderbilt University | [Verify Credential](https://coursera.org/verify/S87J87M9G27U) |
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashok-murugan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="Ashok Murugan's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashok-murugan&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
-</div>
-
----
-
 ## 🤝 Connect, Collaborate & Advisory
 
 - 🌐 **Portfolio & Case Studies:** [ashokmurugan.com](https://ashokmurugan.com)
